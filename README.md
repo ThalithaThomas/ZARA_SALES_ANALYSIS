@@ -1,15 +1,15 @@
 # Zara Sales Performance Analysis
 
 ## 📑 Table of Contents
-- [📌 Project Overview](#-project-overview)
-- [🎯 Focus Areas](#-focus-areas)
-- [📊 Data Source](#-data-source)
-- [🔧 Tools & Methodology](#-tools--methodology)
-- [📈 Key Findings](#-key-findings)
-- [🚀 Strategic Recommendations](#-strategic-recommendations)
-- [📌 Success Metrics](#-success-metrics)
-- [📷 Visuals & Dashboards](#-visuals--dashboards)
-- [✨ Conclusion](#-conclusion)
+- [Project Overview](#-project-overview)
+- [Focus Areas](#-focus-areas)
+- [Data Source](#-data-source)
+- [Tools & Methodology](#-tools--methodology)
+- [Key Findings](#-key-findings)
+- [Strategic Recommendations](#-strategic-recommendations)
+- [Success Metrics](#-success-metrics)
+- [Visuals & Dashboards](#-visuals--dashboards)
+- [Conclusion](#-conclusion)
 
 ## 📌 Project Overview
 This project analyzes Zara's sales performance data to identify patterns in product positioning, promotional effectiveness, seasonal trends, and customer behavior. The goal is to provide actionable insights that support:
